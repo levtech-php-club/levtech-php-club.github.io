@@ -8,7 +8,9 @@ layout: default
 
 ### この会について
 基本的に「集まってもくもくコードを書いてみたりときどき発表してみたり」を目指します。
+
 (ちなみにPHPにこだわるつもりは特にありません！)
+
 この会が提供できるのは
 
 * オシャレな空間でのプログラミング
@@ -36,10 +38,11 @@ WEBAPIを使ってなんか作ってみよう！
 
 * githubAPI
 
-[https://octokit.github.io/i](https://octokit.github.io/i) githubAPIのシンプルラッパー
+[https://octokit.github.io/](https://octokit.github.io/) githubAPIのシンプルラッパー
 rubyなのでphpで書き直すってのもあり？
 
 * API集
+
 [http://www.find-job.net/startup/api-2013](http://www.find-job.net/startup/api-2013)
 めんどくさいのでまとめサイト....
 
