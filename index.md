@@ -46,6 +46,16 @@ rubyなのでphpで書き直すってのもあり？
 [http://www.find-job.net/startup/api-2013](http://www.find-job.net/startup/api-2013)
 めんどくさいのでまとめサイト....
 
+* teratail のAPI
+
+teratail【テラテイル】ってこんなサイト
+[https://teratail.com/](https://teratail.com/)
+
+最近いろいろな雑誌で取り上げられ始めてる
+http://gihyo.jp/magazine/wdpress/archive/2014/vol83 とか
+
+
+今回はα版APIを利用します（別紙参照）
 
 ---
 
