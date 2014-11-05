@@ -16,23 +16,28 @@ layout: default
 * ちょっと新しめな技術とかツールとかの紹介？（提供できるようがんばります）
 といったところです。
 
+---
+
 ### 学びをシェアすることについて
 * inputとoutputの関係
 * 自分にとっての当たり前は他人にとっての驚き
 * べつにしょぼくてもいいじゃないか
+
+---
 
 ### 本日のお題っぽい何か
 WEBAPIを使ってなんか作ってみよう！
 
 *Googleスプレッドシート
 *githubAPI
-https://octokit.github.io/ githubAPIのシンプルラッパー
+[https://octokit.github.io/i](https://octokit.github.io/i) githubAPIのシンプルラッパー
 rubyなのでphpで書き直すってのもあり？
 *API集
-http://www.find-job.net/startup/api-2013
+[http://www.find-job.net/startup/api-2013](http://www.find-job.net/startup/api-2013)
 めんどくさいのでまとめサイト....
 
 
+---
 ### ちなみに
 このHTMLつくるのに参考にしたページ
-http://leko.jp/archives/371
+[http://leko.jp/archives/371](http://leko.jp/archives/371)
