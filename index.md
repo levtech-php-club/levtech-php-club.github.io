@@ -36,10 +36,17 @@ WEBAPIを使ってなんか作ってみよう！
 
 * Googleスプレッドシート
 
+http://132th.net/2014/04/29/676
+
 * githubAPI
 
 [https://octokit.github.io/](https://octokit.github.io/) githubAPIのシンプルラッパー
 rubyなのでphpで書き直すってのもあり？
+
+*twitterAPI
+
+http://qiita.com/mpyw/items/b59d3ce03f08be126000
+
 
 * API集
 
