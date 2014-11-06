@@ -28,6 +28,7 @@ layout: default
 * inputとoutputの関係
 * 自分にとっての当たり前は他人にとっての驚き
 * べつにしょぼくてもいいじゃないか
+* hogehoge
 
 ---
 
